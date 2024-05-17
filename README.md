@@ -1,5 +1,5 @@
 # simple-pong
-My simple ass pong game in SFML
+My simple pong game in SFML
 This was built in c++ with sfml framework, i advice to not compile this shit but rather just look at the source to discover how it's made etc..
 
 If you want to try it download the compiled game: https://github.com/spidernukleo/simple-pong/releases/
